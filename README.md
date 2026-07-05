@@ -1,4 +1,4 @@
-## ☕ IBM Employee Attrition Analysis Project
+## IBM Employee Attrition Analysis Project
 
 ### Overview
 This project analyzes Employees Attrition from a IBM Company 
